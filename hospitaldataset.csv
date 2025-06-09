@@ -1,0 +1,59 @@
+hospital_id,name,address,latitude ,longitude,specialties,doctor_name,contact_info
+1,R.K. Mission Free TB & chest clinic,"Arya Samaj Road, KarolBagh, ND-5",28.64583782,77.19635914,Tuberclosis,Dr. S.K. Biswas,25768608
+2,Delhi Govt. Dispensary,"Tank Road, Cats Building, New Delhi – 110005",28.65134094,77.18090159,Tuberclosis,Dr. Sudha Sachdeva,25769097
+3,Patel Nagar Hospital,"East Patel Nagar, New Delhi – 8  ",28.64693758,77.17224081,Tuberclosis,Dr. Bebita Mittal,25781396
+4,Chest Clinic ,"Moti Nagar, New Delhi – 110015",28.66265909,77.14109105,Tuberclosis,Dr.Seth,25101252
+5,Delhi Govt. Dispensary,"I-Block Shakur Pur, J.J. Colony, New Delhi",28.69056533,77.14618735,Tuberclosis,Dr. Sudha Gupta,27187380
+6,Deen Dayal Uppadaya Hospital,"Hari Nagar, New Delhi – 110064",28.62820532,77.11223192,Tuberclosis,Dr. Ashok,25494337
+7, Guru Gobind Singh Hospital,"Raghuvir Nagar, New Delhi 27",28.65313723,77.10746351,Tuberclosis, Dr. Manoj Kumar Gami ,25114548
+8,Primary Health Centre,"Palam Village, Palam Colony, New Delhi",28.59173867,77.08173081,Tuberclosis,Dr. Charan Singh, 25016231
+9,RTRM Hospital,"Jaffarpur Beyond Nazafgarh , New Delhi –73",28.59489882,76.91412648,Tuberclosis,Dr. B.B. Sinha, 28019473
+10,Chest Clinic,"Gulabi Bagh, Kali Das Marg, Delhi – 7 ",28.67309881,77.18710142,Tuberclosis,Dr. R.K. Mehra,23654823
+11,B.J.R.M. Hospital,"Jahangirpuri, Delhi-33",28.7338995,77.17281351,Tuberclosis, Dr. B.K. Vashishat,27233955
+12,Sanjay Gandhi Memorial Hospital,"S-Block, Mangol Puri, Delhi-83",28.69460778,77.08182593,Tuberclosis, Dr. S.K. Arora, 27914171
+13,Dr. Shyama Prasad Mukherjee Chest Clinic & Hospital,"Patparganj, (Near Trilokpuri Thana), Delhi – 91",28.61446668,77.2898975,Tuberclosis,Dr. Praveen Kr. ,22754649
+14,LRS Institute," P.H.C. Near Bhul Bhulian, Mehrauli, New Delhi-30",28.52937555,77.19010156,Tuberclosis,Dr. Arun Pandey,26080882
+15,Chest Clinic Jhandewalan,"Nr. Jal Board, Karol Bagh, New Delhi-5",28.64986302,77.20320653,Tuberclosis,Dr. D.K. Garg,23526754
+16,Hindu Rao Hospital," Sabzi Mandi, OPD Block Delhi-6",28.67789803,77.21008224,Tuberclosis, Dr. Umesh Tyagi,23962282
+17,National Institute of Tuberculosis and Respiratory Diseases (NITRD),"Sri Aurobindo Marg, Near Qutub Minar, New Delhi – 110030",28.52940972,77.19009234,Tuberclosis,Dr. Manpreet Bhalla,26568227
+18,Rajan Babu Tuberculosis Hospital,"Guru Teg Bahadur Nagar, Kingsway Camp, New Delhi – 110009?",28.70028756,77.20460539,Tuberclosis,Dr. Anuj K Bhatnagar,27659673
+19,All India Institute of Medical Sciences (AIIMS)," Ansari Nagar, New Delhi – 110029?",28.56720564,77.21008801,Tuberclosis,,
+20,"Max Hospital, Saket","Press Enclave Road, Saket, New Delhi - 110017",28.52769039,77.21205897,"Bacterial Pneumonia,Corona Virus Disease",Dr. Ajay Lall,40554055
+21,Sanjeevan Hospital,"24, Ansari Road, Darya Ganj, New Delhi - 110002",28.64131373,77.24296304,Bacterial Pneumonia,Dr. Prem Aggarwal,23272121?
+22,St. Stephen's Hospital,"Tis Hazari, New Delhi - 110054?",28.66687239,77.21457158,Bacterial Pneumonia,Dr. Lucy Oommen,23962374
+23,Vallabhbhai Patel Chest Institute,"University of Delhi Campus, North Campus, New Delhi - 110007",28.69063708,77.20981125,Bacterial Pneumonia,Dr. Raj Kumar,27667483
+24,Aashlok Hospital,"Safdarjung Enclave, New Delhi",28.56665769,77.19895764,Bacterial Pneumonia,Dr. S.K. Bakshi,26182828
+25,Fortis C-DOC Hospital,"Nehru Place, New Delhi?",28.54719262,77.24956505,Bacterial Pneumonia,Dr. Amrita Ghosh,26233303
+26,SCI International Hospital,"Greater Kailash Part 1, New Delhi",28.55006291,77.23410884,Bacterial Pneumonia,Dr. Himanshu Shekhar,29218585
+27,Jeewan Hospital,"Kilokri, New Delhi?",28.57840421,77.25933468,Bacterial Pneumonia,Dr. Ajit Kumar Talukdar,26940000
+28,Park Hospital,"Chokhandi, New Delhi",28.65195145,77.09315527,Bacterial Pneumonia,Dr. Anju Malhotra,28750000
+29,Cronus Multispeciality Hospital,"Chattarpur, New Delhi",28.50168703,77.18580677,Bacterial Pneumonia,Dr. Chetan Kumar Gupta,65432100
+30,Mata Roop Rani Maggo Hospital,"Uttam Nagar, New Delhi",28.62126821,77.05064248,"Bacterial Pneumonia,Viral Pneumonia",Dr. Santosh Ghai,28112222
+31,Manipal Hospital Delhi,"Sector 6 adjoining MTNL building, Main Rd, Dwarka, New Delhi, Delhi 110075",28.59697057,77.06991009,"Bacterial Pneumonia,Tuberclosis,Viral Pneumonia,Corona Virus Disease",Dr. Ankita Baidya,49674967
+32,BLK-Max Hospital,"Pusa Road, New Delhi?",28.64369613,77.17955534,Viral Pneumonia,Dr. Sandeep Nayar?,30403040
+33,Batra Hospital & Medical Research Centre,"Tughlakabad, New Delhi",28.51383127,77.24570254,Viral Pneumonia,Dr. Sandeep Nayar?,30403040
+34,Ayushman Hospital & Health Services,"Sector 10, Dwarka, New Delhi?",28.58812827,77.0596337,Viral Pneumonia,Dr. Sushant Wadhera?,49495566?
+35,Ayushman Hospital & Health Services,"Dwarka Sector 3, New Delhi?",28.60535185,77.05347255,Viral Pneumonia,Dr. Raj Kumar?,47111111
+36,Jeewan Mala Hospital,"Karol Bagh, New Delhi",28.65815487,77.19432911,Viral Pneumonia,Dr. Kailash Nath Gupta,25722522
+37,Delhi Heart and Lung Institute,"Paharganj, New Delhi?",28.64179032,77.20538935,Viral Pneumonia,Dr. Abhinav Guliani?,23583600
+38,Sukhmani Hospital,"Safdarjung Enclave, New Delhi?",28.56002571,77.20048914,Viral Pneumonia,Dr. Ashish Jain,26713000
+39,Dharamshila Narayana Superspeciality Hospital,"Vasundhara Enclave, New Delhi",28.60274764,77.31410674,Viral Pneumonia,Dr. Sai Kiran Chaudhari?,43077700
+40,Metro Hospital and Cancer Institute,"Preet Vihar, New Delhi",28.63864445,77.29478918,Viral Pneumonia,Dr. Praveen Kumar Pandey,22525400
+41,Sri Balaji Action Medical Institute,"Paschim Vihar, New Delhi",28.6737827,77.11026739,Viral Pneumonia,Dr. Naveen Kumar Ailawadi,25252525
+42,PSRI Hospital,"Sheikh Sarai, New Delhi",28.53351894,77.22530394,Viral Pneumonia,Dr. Chetan Kumar Gupta,29258585
+43,CK Birla Hospital,"Punjabi Bagh, New Delhi",28.66770846,77.13170529,Viral Pneumonia,Dr. Archana Pathak,41592200
+44,Dr. Naveen Ailawadi Chest Clinic,"Adarsh Nagar, New Delhi",28.7193605,77.17332115,Viral Pneumonia,Dr. Naveen Ailawadi,27675678
+45,Indraprastha Apollo Hospital,"Sarita Vihar, New Delhi – 110076",28.54157318,77.28330403,Corona Virus Disease,Dr. Randeep Guleria,26925859
+46,"Max Super Specialty Hospital, Shalimar Bagh","Shalimar Bagh, New Delhi – 110088",28.72816146,77.15294689,Corona Virus Disease,Dr. Shiv Kumar,45083333
+47,Holy Family Hospital,"Okhla Road, New Delhi – 110025",28.56197627,77.27508984,Corona Virus Disease,Dr. Shashi Ranjan,26825767
+48,Sir Ganga Ram Hospital,"Rajinder Nagar, New Delhi – 110060",28.63848425,77.18867537,Corona Virus Disease,Dr. Sudhir Batra,42505050
+49,"Fortis Hospital, Shalimar Bagh","Shalimar Bagh, New Delhi – 110088",28.70969279,77.16996894,Corona Virus Disease,Dr. Vivek Gupta,45075001
+50,Maharaja Agrasen Hospital,"Punjabi Bagh, New Delhi – 110026",28.67431021,77.13396005,Corona Virus Disease,Dr. Manish Goyal,25151060
+51,Venkateshwar Hospital,"Dwarka, New Delhi – 110075",28.58872917,77.03804279,Corona Virus Disease,Dr. Mohan K.,49052999
+52,Sri Balaji Action Medical Institute,"Paschim Vihar, New Delhi – 110063",28.67397096,77.11024594,Corona Virus Disease,Dr. Rajesh Chawla,25556101
+53,Jaipur Golden Hospital,"Rohini, New Delhi – 110085",28.69790578,77.10928325,Corona Virus Disease,Dr. Harsh Vardhan,47011111
+54,Mata Chanan Devi Hospital,"Janakpuri, New Delhi – 110058",28.61905708,77.07833874,Corona Virus Disease,Dr. Sandeep Kaul,25591910
+55,Saroj Super Speciality Hospital,"Rohini, New Delhi – 110085",28.70607792,77.12896461,Corona Virus Disease,Dr. Atul Kumar,47006000
+56,Rajiv Gandhi Super Specialty Hospital,"Rd Number 69, Taharpur, Taharpur Village , New Delhi – 110093",28.68936494,77.31646809,Corona Virus Disease,Dr. Narendra Gupta,22302400
+57,Burari Hospital,"Burari, New Delhi – 110084",28.76182789,77.19004745,Corona Virus Disease,,27680353
+58,Dr. Baba Saheb Ambedkar Hospital,"Rohini, New Delhi – 110085",28.71335328,77.11426399,Corona Virus Disease,,27563500
