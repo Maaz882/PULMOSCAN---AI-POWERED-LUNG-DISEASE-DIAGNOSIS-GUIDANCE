@@ -28,12 +28,12 @@ pip install tensorflow==2.15 keras==2.15 opencv-python matplotlib customtkinter 
 
 ### 1.**Model Training**
 
--**Open trainingmodel1.ipynb in Jupyter Notebook or VS Code.
--**Configure your dataset paths.
--**Run the notebook to:
--**Preprocess data
--**Train the model (Xception-based)
--**Save the trained model as best_lung_disease_model.h5
+ -**Open trainingmodel1.ipynb in Jupyter Notebook or VS Code.
+ -**Configure your dataset paths.
+ -**Run the notebook to:
+ -**Preprocess data
+ -**Train the model (Xception-based)
+ -**Save the trained model as best_lung_disease_model.h5
 
 ### 2.***Launch the GUI**
 
